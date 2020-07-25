@@ -1,0 +1,1 @@
+0 * * * * sh /path/to/sync-with-s3.sh >>/tmp/s3-sync.log 2>&1
